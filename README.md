@@ -1,4 +1,3 @@
 # hello_world
-training
+training is fun.
 
-oh dear.
